@@ -7,5 +7,5 @@ Bash comments
 
 ## Topics to cover
 * Devops 
- * GIT
+  * GIT
   * jERKINS
