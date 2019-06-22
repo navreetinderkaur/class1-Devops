@@ -4,3 +4,8 @@ Devops
 ```
 Bash comments
 ```
+
+## Topics to cover
+*Devops 
+ * GIT
+  * jERKINS
