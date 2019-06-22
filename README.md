@@ -6,6 +6,6 @@ Bash comments
 ```
 
 ## Topics to cover
-*Devops 
+* Devops 
  * GIT
   * jERKINS
