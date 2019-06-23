@@ -9,4 +9,4 @@ Bash comments
 * Devops 
   * GIT
   * jERKINS
-* bit
+
